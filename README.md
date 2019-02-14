@@ -49,7 +49,7 @@ func init() {
 
 ### [3/3] deploy cloud controller manager
 
-kubectl apply 
+`kubectl apply -f releases/v0.1.0.yml`
 
 
 ## Cloud Controller Manager mechanism
